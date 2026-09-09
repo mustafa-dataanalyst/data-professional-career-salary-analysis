@@ -1,4 +1,5 @@
 **Data Professional Survey Analysis
+<img width="1798" height="808" alt="Screenshot 2026-08-30 161053" src="https://github.com/user-attachments/assets/4b99c6a7-6d3c-4a9a-81a8-b0f4fe7c5a07" />
 
 <img width="548" height="364" alt="image" src="https://github.com/user-attachments/assets/5a55a45c-6342-4627-ade6-db048fe58b96" />
 
